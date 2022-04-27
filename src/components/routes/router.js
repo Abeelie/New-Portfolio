@@ -6,6 +6,7 @@ import Contact from "../Contact/Contact";
 import Footer from "../Footer/Footer";
 import Hero from '../Hero/Hero';
 import NotFoundPage from '../NotFound/NotFound';
+import ScrollToTop from "react-scroll-to-top";
 
 
 
@@ -20,6 +21,7 @@ const Router = () => {
                 <Route exact path="/contact-me" element={<Contact/>} />
                 <Route path="*" element={<NotFoundPage />} />
             </Routes>
+            <ScrollToTop smooth color="#000000"/>
             <Footer />
         </div>
     )
