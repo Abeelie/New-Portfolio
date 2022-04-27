@@ -25,12 +25,12 @@ const About = () => {
                             world. You get to create technology that can impact
                             people lives in a postive way. Helping people is what
                             I like to do. In my previous experience, I worked with 
-                            many non-profits on building their websites to help gain
+                            many non-profits on building their websites to help them gain
                             more donations for their cause. In addition, I was able to help
-                            save money from having to hire developers who charged alot of
+                            them save money from having to hire developers who charged a lot of
                             money for the services I rendered. I fell in love with developing 
-                            technologies and am inspired by how much good these technologies
-                            can create for society at large. I like to code and hang out with
+                            technologies and I am inspired by how much good these technologies
+                            can create for society. I like to code and hang out with
                             friends and family. I believe I would be an excellent addition to
                             your team.
                         </p>
