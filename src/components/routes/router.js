@@ -14,11 +14,11 @@ const Router = () => {
         <div>
             <Navbar />
             <Routes>
-                <Route exact path="/" element={<Hero/>}></Route>
-                <Route exact path="/my-projects" element={<Project/>}></Route>
-                <Route exact path="/my-skills" element={<Skills/>}></Route>
-                <Route exact path="/contact-me" element={<Contact/>}></Route>
-                <Route path="*" element={<NotFoundPage />}></Route>
+                <Route exact path="/" element={<Hero/>} />
+                <Route exact path="/my-projects" element={<Project/>} />
+                <Route exact path="/my-skills" element={<Skills/>} />
+                <Route exact path="/contact-me" element={<Contact/>} />
+                <Route path="*" element={<NotFoundPage />} />
             </Routes>
             <Footer />
         </div>
