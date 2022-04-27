@@ -5,7 +5,7 @@ import Skills from "../Skills/Skills";
 import Contact from "../Contact/Contact";
 import Footer from "../Footer/Footer";
 import Hero from '../Hero/Hero';
-import NotFoundPage from '../NotFound/NotFound';
+import NotFoundPage from '../NotFound/NotFound';  
 import ScrollToTop from "react-scroll-to-top";
 
 
