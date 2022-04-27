@@ -1,0 +1,53 @@
+.hero-section {
+    height: 100%;
+    color: white;
+    font-size: 4rem;
+}
+
+.hero-text {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.text {
+    color: white;
+}
+
+.subtitle {
+    margin-top: 0;
+    color: white;
+}
+
+
+#myImage {
+    position: absolute;
+    width: 100%;
+    left: 50%;
+    height: 1000px;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    opacity: 0.6;
+}
+
+@media only screen and (max-width: 600px) {
+    .hero-section {
+        height: 50%;
+        align-items: center;
+        color: white;
+        font-size: 2.5rem;
+    }
+    .text-welcome {
+        text-align: center;
+    }
+    .subtitle {
+        margin-top: 0;
+        font-size: 20px;
+    }
+    #myImage {
+        width: 100%;
+        left: 50%;
+        height: 100%;
+        /* height: 100vh; */
+    }
+}

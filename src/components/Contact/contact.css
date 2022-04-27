@@ -1,0 +1,17 @@
+.card-form-contact {
+    max-width: 550px;
+    margin-bottom: 200px;
+}
+
+
+.card-form-contact:hover {
+    box-shadow: -1px 10px 29px 0px rgba(254, 254, 254, 0.8);
+}
+
+@media  screen and (max-width: 750px) {
+    .card-form-contact  {
+        max-width: 85%;
+    }
+}
+
+ 

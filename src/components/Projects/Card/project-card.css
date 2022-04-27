@@ -1,0 +1,16 @@
+.cards{
+    margin-bottom: 40px;
+}
+
+.cards:hover {
+    box-shadow: -1px 10px 29px 0px rgba(254, 254, 254, 0.8);
+}
+
+.project-link {
+    margin: 0 auto; 
+    color: white;
+}
+
+.text-color {
+    color: white;
+}

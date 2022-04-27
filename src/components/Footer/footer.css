@@ -1,0 +1,19 @@
+.footer {
+    background-color: black;
+    color: white;
+}
+
+
+.footer-text {
+    text-align: "center"; 
+    margin: "0"; 
+    line-height: "50px";
+}
+
+.social {
+    margin-right: 10px;
+}
+
+.social:hover {
+    transform: scale(1.2);
+}
