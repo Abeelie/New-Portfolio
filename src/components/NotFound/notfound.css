@@ -1,0 +1,7 @@
+.go-back-home {
+    font-size: 20px;
+}
+
+.go-back-home:hover {
+    border-bottom: 5px double;
+}

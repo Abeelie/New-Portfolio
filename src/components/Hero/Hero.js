@@ -1,6 +1,7 @@
 import "./hero.css";
 import Typical from "react-typical";
 import HeroImage from "../../assets/Hero/hero.jpg";
+import About from "../About/About";
 
 const Hero = () => {
     return(
@@ -22,6 +23,8 @@ const Hero = () => {
                     />
                 </h6>
             </div>
+
+            <About />
         </div>
     )
 }

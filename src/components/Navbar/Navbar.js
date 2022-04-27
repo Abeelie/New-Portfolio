@@ -19,6 +19,7 @@ const Navbar = () => {
                         </span>
                     </div>
                     <div className={showHeaderOptions ? "header-options show-hamburger-options" : "header-options"}>
+                    <a className="header-option header-option-seperator" href="/">Home</a>
                         <a className="header-option header-option-seperator" href="/my-projects">Projects </a>
                         <a className="header-option header-option-seperator" href="/my-skills">Skills </a>
                         <a className="header-option header-option-seperator" href="contact-me">Contact Me </a>
