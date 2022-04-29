@@ -1,20 +1,26 @@
+import {useState} from "react";
 import "./about.css";
 import {Box, Grid } from "@mui/material";
 import ScreenHeading from "../ScreenHeading/ScreenHeading";
 import AboutImage from "../../assets/About/About.webp";
+import AboutHoverImage from "../../assets/About/AboutHoverImage.gif";
 
 const About = () => {
+    const [imageState, setImageState] = useState(AboutImage);
+
     return (
         <div className="about">
             <ScreenHeading title={"About Me"} subHeading={"Get To Know Me"} />
             <Box>
                 <Grid container spacing={2}>
                     <Grid item xs={12} md={6} >
-                        <img src={AboutImage} 
+                        <img src={imageState} 
                             alt="loop"
                             width="100%"
                             height="100%"
                             className="about-img"
+                            onMouseOver={() => setImageState(AboutHoverImage)}
+                            onMouseOut={() => setImageState(AboutImage)}
                         />
                     </Grid>
                     <Grid item xs={12} md={6}>
