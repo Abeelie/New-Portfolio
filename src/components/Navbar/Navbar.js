@@ -15,7 +15,7 @@ const Navbar = () => {
                     </div>
                     <div className="header-logo">
                         <span>
-                            <a href="/"> Abraham Elie</a>
+                            <a className="my-name" href="/"> Abraham Elie</a>
                         </span>
                     </div>
                     <div className={showHeaderOptions ? "header-options show-hamburger-options" : "header-options"}>
