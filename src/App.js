@@ -8,8 +8,8 @@ const App = () => {
   return (
     <BrowserRouter>
       <div className="App">
-        {document.readyState === "complete" ? 
-          <Router /> : <Loader /> 
+        {document.readyState === "loading" ? 
+         <Loader /> : <Router />  
         }
       </div>
     </BrowserRouter>
