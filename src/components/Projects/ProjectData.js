@@ -6,7 +6,7 @@ import MathImage from "../../assets/Projects/MathImage.jpg";
 import MemeImage from "../../assets/Projects/MemeImage.jpg";
 import MusicImage from "../../assets/Projects/MusicImage.png";
 import BooksImage from "../../assets/Projects/BooksImage.png";
-import WeatherImage from "../../assets/Projects/WeatherImage.png";
+import WeatherImage from "../../assets/Projects/WeatherImage.jpg";
 
 const Data = [
     {
