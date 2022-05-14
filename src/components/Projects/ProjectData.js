@@ -6,6 +6,7 @@ import MathImage from "../../assets/Projects/MathImage.jpg";
 import MemeImage from "../../assets/Projects/MemeImage.jpg";
 import MusicImage from "../../assets/Projects/MusicImage.png";
 import BooksImage from "../../assets/Projects/BooksImage.png";
+import WeatherImage from "../../assets/Projects/WeatherImage.png";
 
 const Data = [
     {
@@ -64,6 +65,13 @@ const Data = [
         description: "Good Books provides free tools that help you find books or discover new ones. The site offers book searching tools and book recommendations. Technologies used are Node JS, HTML, CSS, and API's.",
         link: "https://good-books-app.herokuapp.com/",
     },
+    {
+        image: WeatherImage,
+        alt: "weather",
+        title: "Weather Chrome Extension",
+        description: "A weather chrome extension that allows users to search for weather data for cities. Technologies used are React JS, TypeScript, Webpack, Chrome API, and Open Weather API.",
+        link: "https://github.com/Abeelie/Chrome-Weather-Extension"
+    }
 ]
 
 export default Data;
