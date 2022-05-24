@@ -7,6 +7,7 @@ import MemeImage from "../../assets/Projects/MemeImage.jpg";
 import MusicImage from "../../assets/Projects/MusicImage.png";
 import BooksImage from "../../assets/Projects/BooksImage.png";
 import WeatherImage from "../../assets/Projects/WeatherImage.jpg";
+import WordPressReactGraphQLImage from "../../assets/Projects/WordPressReactGraphQL.png";
 
 const Data = [
     {
@@ -71,6 +72,13 @@ const Data = [
         title: "Weather Chrome Extension",
         description: "A weather chrome extension that allows users to search for weather data for cities. Technologies used are React JS, TypeScript, Webpack, Chrome API, and Open Weather API.",
         link: "https://github.com/Abeelie/Chrome-Weather-Extension"
+    },
+    {
+        image: WordPressReactGraphQLImage,
+        alt: "WordPress React Graphql",
+        title: "Decoupled WordPress with React and GraphQL",
+        description: "A decoupled WordPress with React and GraphQL website that uses WordPress as a data source. Technologies used are React JS, WordPress, GraphQL and Apollo Client",
+        link: "https://wordpress-graphql-react-demo.netlify.app"
     }
 ]
 
