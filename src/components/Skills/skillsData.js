@@ -19,10 +19,14 @@ import BulmaImage from "../../assets/Skills/Bulma.png";
 import JiraImage from "../../assets/Skills/Jira.png";
 import NetlifyImage from "../../assets/Skills/Netlify.png";
 import DockerImage from "../../assets/Skills/Docker.png";
+import NextJSImage from "../../assets/Skills/NextJS.png";
 
 const skills = [
     {
         image: ReactImage, alt: "react"
+    },
+    {
+        image: NextJSImage, alt: "nextjs"
     },
     {
         image: NodeJSImage, alt: "nodejs"
