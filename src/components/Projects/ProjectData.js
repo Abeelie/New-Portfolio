@@ -8,6 +8,7 @@ import MusicImage from "../../assets/Projects/MusicImage.png";
 import BooksImage from "../../assets/Projects/BooksImage.png";
 import WeatherImage from "../../assets/Projects/WeatherImage.jpg";
 import WordPressReactGraphQLImage from "../../assets/Projects/WordPress.png";
+import AncientEgyptImage from "../../assets/Projects/AncientEgypt.png";
 
 const Data = [
     {
@@ -77,9 +78,18 @@ const Data = [
         image: WordPressReactGraphQLImage,
         alt: "WordPress React Graphql",
         title: "Decoupled WordPress with React and GraphQL",
-        description: "A decoupled WordPress with React and GraphQL website that uses WordPress as a data source. Technologies used are React JS, WordPress, GraphQL and Apollo Client",
+        description: "A decoupled WordPress with React and GraphQL website that uses WordPress as a data source. Technologies used are React JS, WordPress, GraphQL, Bulma CSS and Apollo Client",
         link: "https://wordpress-graphql-react-demo.netlify.app"
+    },
+    {
+        image: AncientEgyptImage,
+        alt: "Ancient Egypt",
+        title: "Ancient Egypt",
+        description: "A decoupled Strapi CMS with Next JS and GraphQL website that uses Strapi CMS as a data source. Technologies used are Next JS, Strapi CMS, GraphQL, React-Bootstrap and Apollo Client",
+        link: "https://ancient-egypt.netlify.app/"
     }
 ]
+
+
 
 export default Data;
