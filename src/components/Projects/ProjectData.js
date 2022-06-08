@@ -86,7 +86,7 @@ const Data = [
         alt: "Ancient Egypt",
         title: "Ancient Egypt",
         description: "A decoupled Strapi CMS with Next JS and GraphQL website that uses Strapi CMS as a data source. Technologies used are Next JS, Strapi CMS, GraphQL, React-Bootstrap and Apollo Client.",
-        link: "https://ancient-egypt.netlify.app/"
+        link: "https://ancient-egypt-b2ihhpdpl-abeelie.vercel.app/"
     }
 ]
 
