@@ -9,7 +9,7 @@ import BooksImage from "../../assets/Projects/BooksImage.png";
 import WeatherImage from "../../assets/Projects/WeatherImage.jpg";
 import SpaceImage from "../../assets/Projects/Space.jpg";
 import AncientEgyptImage from "../../assets/Projects/AncientEgypt.jpg";
-import IonicAppImage from "../../assets/Projects/IonicAppImage.png";
+import IonicAppImage from "../../assets/Projects/IonicAppImage.jpg";
 
 const Data = [
     {
