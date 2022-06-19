@@ -92,7 +92,7 @@ const Data = [
     {
         image: IonicAppImage,
         alt: "Eth Gas Tracker",
-        title: "Eth Gas Tracker Demo (Please Adjust window size to mobile to view app)",
+        title: "Eth Gas Tracker Mobile App Demo (Please Adjust window size to mobile to view app)",
         description: "An Ethereum gas tracker app that lets you view an estimate on current gas fees, schedule gas fees alerts, and view market data on ethereum tokens. Technologies used were Ionic Framework, React JS and Strapi",
         link: "https://eth-gas-fees-tracker.netlify.app/login"
     }
