@@ -1,6 +1,8 @@
 .card-form-contact {
     max-width: 550px;
     margin-bottom: 500px;
+    border-radius: 25px !important;
+    padding: 20px !important;
 }
 
 
