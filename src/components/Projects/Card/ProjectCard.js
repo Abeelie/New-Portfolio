@@ -18,6 +18,7 @@ const ProjectCard = (props) => {
             height="300px"
             image={props.image}
             alt={props.alt}
+            className="card-image"
           />
           <CardContent>
             <Typography className="text-color" gutterBottom variant="h5" component="div">
