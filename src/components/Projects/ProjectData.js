@@ -23,7 +23,7 @@ const Data = [
         image: BibleImage,
         alt: "bible",
         title: "Multilingual Bible API",
-        description: "I created and published a multilingual bible API that has translations for English, French, Spanish, and Chinese. In addition, the user is able to find search for verses, chapters and books of the bible. Technologies used were Node JS, Express JS, MongoDB, Mongoose, and Express Rate Limiter.",
+        description: "I created and published a Multilingual Bible API that has translations for English, French, Spanish, and Chinese. In addition, the user is able to search for verses, chapters and books of the bible. Technologies used were Node JS, Express JS, MongoDB, Mongoose, and Express Rate Limiter.",
         link: "https://rapidapi.com/abrahaelill-GRIsGuS-TSY/api/multilingual-bible/",
     },
     {
@@ -51,21 +51,21 @@ const Data = [
         image: MemeImage,
         alt: "Meme",
         title: "Meme Central",
-        description: "Meme Central shows real time financial data on meme stocks and meme crypto. The app allows users to view social stats on the financial assets that influence the assets price. In addition, users are able to find out trending news these financial assets. Technologies used were Python, Flask, HTML, CSS, JavaScript, JQuery, and API's.",
+        description: "Meme Central shows real time financial data on meme stocks and meme crypto. The app allows users to view social stats on the financial assets that influence the assets price. In addition, users are able to find out trending news these on financial assets. Technologies used were Python, Flask, HTML, CSS, JavaScript, JQuery, and API's.",
         link: "https://meme-central123.herokuapp.com/",
     },
     {
         image: MusicImage,
         alt: "Music",
         title: "Music History",
-        description: "Music History is a site dedicated to providing the public information on the history of music. Ranging from the different types of genres, artists and songs. In addition, users are able to search music news and events on their favorite artists. Technologies used were Node JS, HTML, CSS, and API's.",
+        description: "Music History is a site dedicated to providing the public information on the history of music. Ranging from the different types of genres, artists and songs. In addition, users are able to search for music news and events on their favorite artists. Technologies used were Node JS, HTML, CSS, and API's.",
         link: "https://music-history101.herokuapp.com/",
     },
     {
         image: BooksImage,
         alt: "Books",
         title: "Good Books",
-        description: "Good Books provides free tools that help you find books or discover new ones. The site offers book searching tools and book recommendations. In addition, users are bale to save their searches and email those searches to themselves. Technologies used were Node JS, HTML, CSS, and API's.",
+        description: "Good Books provides free tools that help you find books or discover new ones. The site offers book searching tools and book recommendations. In addition, users are able to save their searches and email those searches to themselves. Technologies used were Node JS, HTML, CSS, and API's.",
         link: "https://good-books-app.herokuapp.com/",
     },
     {
