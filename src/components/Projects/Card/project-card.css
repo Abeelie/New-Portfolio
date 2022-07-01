@@ -1,5 +1,7 @@
 .cards{
     margin-bottom: 40px;
+    border-radius: 25px !important;
+    padding: 20px !important;
 }
 
 .cards:hover {

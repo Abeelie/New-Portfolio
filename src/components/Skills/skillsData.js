@@ -5,12 +5,12 @@ import GraphQLImage from "../../assets/Skills/GraphQL.png";
 import PostgreSQLImage from "../../assets/Skills/PostgresSQL.png";
 import MongoDBImage from "../../assets/Skills/MongoDB.png";
 import PythonImage from "../../assets/Skills/Python.jpg";
-import JavaScriptImage from "../../assets/Skills/JavaScript.png";
+// import JavaScriptImage from "../../assets/Skills/JavaScript.png";
 import TypeScriptImage from "../../assets/Skills/TypeScript.png";
 import JQueryImage from "../../assets/Skills/JQuery.jpg";
-import HTMLImage from "../../assets/Skills/HTML.jpg";
-import CSSImage from "../../assets/Skills/CSS.png";
-import WordPressImage from "../../assets/Skills/WordPress.png";
+// import HTMLImage from "../../assets/Skills/HTML.jpg";
+// import CSSImage from "../../assets/Skills/CSS.png";
+import WordPressImage from "../../assets/Skills/WordPressLogo.png";
 import GITImage from "../../assets/Skills/GIT.png";
 import BitBucketImage from "../../assets/Skills/BitBucket.png";
 import HerokuImage from "../../assets/Skills/Heroku.png";
@@ -18,8 +18,9 @@ import BootstrapImage from "../../assets/Skills/Bootstrap.png";
 import BulmaImage from "../../assets/Skills/Bulma.png";
 import JiraImage from "../../assets/Skills/Jira.png";
 import NetlifyImage from "../../assets/Skills/Netlify.png";
-import DockerImage from "../../assets/Skills/Docker.png";
-import NextJSImage from "../../assets/Skills/NextJS.png";
+// import DockerImage from "../../assets/Skills/Docker.png";
+import NextJSImage from "../../assets/Skills/NextJSLogo.png";
+import FullStackImage from "../../assets/Skills/FullStackImage.png";
 
 const skills = [
     {
@@ -46,8 +47,11 @@ const skills = [
     {
         image: PythonImage, alt: "python"
     },
+    // {
+    //     image: JavaScriptImage, alt: "javascript"
+    // },
     {
-        image: JavaScriptImage, alt: "javascript"
+        image: FullStackImage, alt: "fullstack"
     },
     {
         image: TypeScriptImage, alt: "typescript"
@@ -55,12 +59,12 @@ const skills = [
     {
         image: JQueryImage, alt: "jquery"
     },
-    {
-        image: HTMLImage, alt: "html"
-    },
-    {
-        image: CSSImage, alt: "css"
-    },
+    // {
+    //     image: HTMLImage, alt: "html"
+    // },
+    // {
+    //     image: CSSImage, alt: "css"
+    // },
     {
         image: WordPressImage, alt: "wordpress"
     },
@@ -79,9 +83,9 @@ const skills = [
     {
         image: NetlifyImage, alt: "netlify"
     },
-    {
-        image: DockerImage, alt: "docker"
-    },
+    // {
+    //     image: DockerImage, alt: "docker"
+    // },
     {
         image: BootstrapImage, alt: "bootstrap"
     },

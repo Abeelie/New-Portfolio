@@ -6,7 +6,12 @@
     margin: 50px;
 }
 
+.skill-cards{
+    margin-bottom: 40px;
+    border-radius: 25px !important;
+    padding: 20px !important;
+}
 
 .skill-cards:hover {
-    transform: scale(1.3) rotate(5deg);
+    box-shadow: -1px 10px 29px 0px rgba(254, 254, 254, 0.8);
 }

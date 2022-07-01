@@ -4,6 +4,8 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
 const Footer = () => {
+    const date = new Date();
+
     return (
         <footer align="center">
             <Box className="footer">
@@ -23,8 +25,9 @@ const Footer = () => {
                             </Link>
                         </Box>
                     </Grid>
-                    <p className="footer-text">&copy; My Portfolio</p>
+                    <p className="footer-text"> My Portfolio</p>
                     <p className="footer-text">Developed by Abraham Elie</p>
+                    <p className="footer-text">All Rights Reserved ® Copyright © {date.getFullYear()}</p>
                 </Container>
             </Box>
         </footer>

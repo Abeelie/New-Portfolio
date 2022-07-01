@@ -22,7 +22,7 @@ const Skills = () => {
                                     height="300px"
                                     image={data.image}
                                     alt={data.alt}
-                                    style={{objectFit: "contain"}}
+                                    style={{objectFit: "scale-down"}}
                                 />
                             </Card>
                         </Grid>
