@@ -27,8 +27,9 @@ const ProjectCard = (props) => {
               {props.description}
             </Typography>
           </CardContent>
-          <CardActions>
-            <a className="project-link" href={props.link}> Click here to check it out!!!.</a>
+          <CardActions style={{display: "contents"}}>
+            <a href={props.link} className="btn project-btn">Check it Out!!</a>   
+            {/* <a className="project-link" href={props.link}> Click here to check it out!!!.</a> */}
           </CardActions>
         </Card>
       );

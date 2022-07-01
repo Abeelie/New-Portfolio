@@ -42,7 +42,7 @@ const About = () => {
                         </p>
                         <div className="btn-grouped" align="center">
                             <a href="https://www.linkedin.com/in/abraham-elie/" className="button button-1">Check out my linkedin</a>
-                            <a href="https://github.com/Abeelie" className="button button-2">Check out my github</a>
+                            <a href="https://github.com/Abeelie"  className="button button-2">Check out my github</a>
                         </div>
                     </Grid>
                 </Grid>
