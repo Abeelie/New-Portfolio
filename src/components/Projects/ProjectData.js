@@ -47,13 +47,13 @@ const Data = [
         description: "I created and published a Math API that can be used to solve math problems such as geometry, number theory, statistics, fractions problems. The API is designed to give users a way to solve math problems that are not avaiable in JS libraries. Technologies used were Node JS, Express JS, Node Cron jobs and Express Rate Limiter.",
         link: "https://rapidapi.com/abrahaelill-GRIsGuS-TSY/api/math7/",
     },
-    {
-        image: MemeImage,
-        alt: "Meme",
-        title: "Meme Central",
-        description: "Meme Central shows real time financial data on meme stocks and meme crypto. The app allows users to view social stats on the financial assets that influence the assets price. In addition, users are able to find out trending news these on financial assets. Technologies used were Python, Flask, HTML, CSS, JavaScript, JQuery, and API's.",
-        link: "https://meme-central123.herokuapp.com/",
-    },
+    // {
+    //     image: MemeImage,
+    //     alt: "Meme",
+    //     title: "Meme Central",
+    //     description: "Meme Central shows real time financial data on meme stocks and meme crypto. The app allows users to view social stats on the financial assets that influence the assets price. In addition, users are able to find out trending news these on financial assets. Technologies used were Python, Flask, HTML, CSS, JavaScript, JQuery, and API's.",
+    //     link: "https://meme-central123.herokuapp.com/",
+    // },
     {
         image: MusicImage,
         alt: "Music",
