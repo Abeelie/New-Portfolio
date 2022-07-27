@@ -58,7 +58,7 @@ const Data = [
         image: MusicImage,
         alt: "Music",
         title: "Music History",
-        description: "Music History is a site dedicated to providing the public information on the history of music. Ranging from the different types of genres, artists and songs. In addition, users are able to search for music news and events on their favorite artists. Technologies used were Node JS, HTML, CSS, and API's.",
+        description: "Music History is a site dedicated to providing the public information on the history of music. Ranging from the different types of genres, artists and songs. In addition, users are able to search for music news and events on their favorite artists. Technologies used were Node JS, HTML, CSS, and third-party music API's from big music companies.",
         link: "https://music-history101.herokuapp.com/",
     },
     {
@@ -86,7 +86,7 @@ const Data = [
         image: AncientEgyptImage,
         alt: "Ancient Egypt",
         title: "Ancient Egypt",
-        description: "A decoupled Strapi CMS with Next JS and GraphQL website that uses Strapi CMS as a data source. Users are able to view historical information on ancient Egyptian deities as well as examine Egyptian pictures with the use of a magnifier. Technologies used were Next JS, Strapi CMS, GraphQL, React-Bootstrap and Apollo Client.",
+        description: "A decoupled Strapi CMS with Next JS and GraphQL website that uses Strapi CMS as a data source. Users are able to view historical information on ancient Egyptian deities as well as examine Egyptian pictures with a magnifier. Technologies used were Next JS, Strapi CMS, GraphQL, React-Bootstrap and Apollo Client.",
         link: "https://ancient-egypt-b2ihhpdpl-abeelie.vercel.app/"
     },
     // {
