@@ -89,13 +89,13 @@ const Data = [
         description: "A decoupled Strapi CMS with Next JS and GraphQL website that uses Strapi CMS as a data source. Users are able to view historical information on ancient Egyptian deities as well as examine Egyptian pictures with the use of a magnifier. Technologies used were Next JS, Strapi CMS, GraphQL, React-Bootstrap and Apollo Client.",
         link: "https://ancient-egypt-b2ihhpdpl-abeelie.vercel.app/"
     },
-    {
-        image: IonicAppImage,
-        alt: "Eth Gas Tracker",
-        title: "Eth Gas Tracker Mobile App Demo (Please Adjust window size to mobile to view app)",
-        description: "An Ethereum gas tracker app that lets you view an estimate on current gas fees, schedule gas fees alerts, and view market data on ethereum tokens. Technologies used were Ionic Framework, React JS and Strapi",
-        link: "https://eth-gas-fees-tracker.netlify.app/login"
-    }
+    // {
+    //     image: IonicAppImage,
+    //     alt: "Eth Gas Tracker",
+    //     title: "Eth Gas Tracker Mobile App Demo (Please Adjust window size to mobile to view app)",
+    //     description: "An Ethereum gas tracker app that lets you view an estimate on current gas fees, schedule gas fees alerts, and view market data on ethereum tokens. Technologies used were Ionic Framework, React JS and Strapi",
+    //     link: "https://eth-gas-fees-tracker.netlify.app/login"
+    // }
 ]
 
 
